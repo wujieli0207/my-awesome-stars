@@ -38,6 +38,7 @@
 - [rest-api](#rest-api)
 - [scikit-learn](#scikit-learn)
 - [typescript](#typescript)
+- [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 
@@ -190,6 +191,10 @@
 
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+
+## vue 
+
+- [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
 
 ## web 
 
