@@ -12,6 +12,7 @@
 - [css](#css)
 - [data-science](#data-science)
 - [design](#design)
+- [electron](#electron)
 - [firefox](#firefox)
 - [frontend](#frontend)
 - [github](#github)
@@ -48,6 +49,7 @@
 
 ## chrome 
 
+- [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 
 ## chrome-extension 
@@ -70,6 +72,10 @@
 ## design 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## electron 
+
+- [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 
 ## firefox 
 
@@ -191,6 +197,7 @@
 
 ## typescript 
 
+- [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 
