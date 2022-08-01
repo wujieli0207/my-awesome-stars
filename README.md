@@ -35,6 +35,7 @@
 
 ## Others 
 
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [stacks-task-manager/stacks](https://github.com/stacks-task-manager/stacks) - Your personal kanban to do and project manager
 - [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
 - [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 前端食堂技术周刊，每周发布。🌰
