@@ -24,6 +24,9 @@
 
 ## JavaScript 
 
+- [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
+- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
+- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
@@ -60,6 +63,7 @@
 
 ## Vue 
 
+- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
