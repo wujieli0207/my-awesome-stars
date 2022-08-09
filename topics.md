@@ -164,6 +164,7 @@
 
 ## others 
 
+- [aMiing/chrome-extension-cookie](https://github.com/aMiing/chrome-extension-cookie) - 开发环境下用来自动获取cookie的chrome插件
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 - [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
