@@ -63,6 +63,7 @@
 
 ## Vue 
 
+- [aMiing/chrome-extension-cookie](https://github.com/aMiing/chrome-extension-cookie) - 开发环境下用来自动获取cookie的chrome插件
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
