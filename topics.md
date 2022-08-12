@@ -256,6 +256,7 @@
 
 ## webpack 
 
+- [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 
