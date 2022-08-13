@@ -24,6 +24,7 @@
 
 ## JavaScript 
 
+- [vuejs-tips/v-money](https://github.com/vuejs-tips/v-money) - Tiny (&lt;2k gzipped) input/directive mask for currency
 - [proYang/outils](https://github.com/proYang/outils) - :rocket: 前端业务代码工具库
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
@@ -66,6 +67,7 @@
 
 ## Vue 
 
+- [1163895390wjh/chrome-extension-vite](https://github.com/1163895390wjh/chrome-extension-vite) - 基于Vite+Vue3开发的一个浏览器插件
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [aMiing/chrome-extension-cookie](https://github.com/aMiing/chrome-extension-cookie) - 开发环境下用来自动获取cookie的chrome插件
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
