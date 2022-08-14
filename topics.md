@@ -126,6 +126,7 @@
 
 ## javascript 
 
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
 - [proYang/outils](https://github.com/proYang/outils) - :rocket: 前端业务代码工具库
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -160,6 +161,7 @@
 
 ## mysql 
 
+- [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🎉 Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js+mysql构建，提供基础的框架，快速搭建企业级中后台产品，响应式管理后台系统
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 
 ## open-source 
@@ -168,6 +170,8 @@
 
 ## others 
 
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [1163895390wjh/chrome-extension-vite](https://github.com/1163895390wjh/chrome-extension-vite) - 基于Vite+Vue3开发的一个浏览器插件
 - [vuejs-tips/v-money](https://github.com/vuejs-tips/v-money) - Tiny (&lt;2k gzipped) input/directive mask for currency
 - [aMiing/chrome-extension-cookie](https://github.com/aMiing/chrome-extension-cookie) - 开发环境下用来自动获取cookie的chrome插件
@@ -209,6 +213,7 @@
 
 ## react 
 
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
@@ -234,12 +239,14 @@
 
 ## typescript 
 
+- [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🎉 Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js+mysql构建，提供基础的框架，快速搭建企业级中后台产品，响应式管理后台系统
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 
 ## vue 
 
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
