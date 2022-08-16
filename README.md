@@ -25,6 +25,7 @@
 
 ## JavaScript 
 
+- [foru17/front-end-collect](https://github.com/foru17/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 - [JedWatson/react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React
 - [JacksonTian/fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
 - [dragonir/3d](https://github.com/dragonir/3d) - Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇
@@ -78,6 +79,7 @@
 
 ## Vue 
 
+- [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 - [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🎉 Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js+mysql构建，提供基础的框架，快速搭建企业级中后台产品，响应式管理后台系统
 - [1163895390wjh/chrome-extension-vite](https://github.com/1163895390wjh/chrome-extension-vite) - 基于Vite+Vue3开发的一个浏览器插件
