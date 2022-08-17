@@ -64,6 +64,7 @@
 
 ## TypeScript 
 
+- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
