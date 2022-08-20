@@ -35,7 +35,6 @@
 - [vuejs-tips/v-money](https://github.com/vuejs-tips/v-money) - Tiny (&lt;2k gzipped) input/directive mask for currency
 - [proYang/outils](https://github.com/proYang/outils) - :rocket: 前端业务代码工具库
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
-- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -68,6 +67,7 @@
 - [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
+- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges
