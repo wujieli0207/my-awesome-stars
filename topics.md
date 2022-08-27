@@ -191,6 +191,7 @@
 
 ## others 
 
+- [miravideo/FFCreator](https://github.com/miravideo/FFCreator) - 一个基于node.js的高速短视频制作库  A fast short video processing library based on node.js
 - [foru17/front-end-collect](https://github.com/foru17/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 - [JedWatson/react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
