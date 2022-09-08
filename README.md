@@ -26,6 +26,7 @@
 
 ## JavaScript 
 
+- [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 - [miravideo/FFCreator](https://github.com/miravideo/FFCreator) - 一个基于node.js的高速短视频制作库  A fast short video processing library based on node.js
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
