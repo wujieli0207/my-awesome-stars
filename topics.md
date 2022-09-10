@@ -19,6 +19,7 @@
 - [firefox](#firefox)
 - [frontend](#frontend)
 - [github](#github)
+- [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -121,6 +122,10 @@
 
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
+## golang 
+
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+
 ## good-first-issue 
 
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -198,6 +203,8 @@
 
 ## others 
 
+- [gotwarlost/istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use ca
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [yujinpan/el-table-infinite-scroll](https://github.com/yujinpan/el-table-infinite-scroll) - Infinite scroll for el-table.
 - [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
