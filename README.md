@@ -7,6 +7,7 @@
 
 - [C++](#c++)
 - [CSS](#css)
+- [Go](#go)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
@@ -24,8 +25,13 @@
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [shen-yu/hexo-theme-ayer](https://github.com/shen-yu/hexo-theme-ayer) - 一个干净优雅的hexo主题 A clean and elegant theme for Hexo.  🐋
 
+## Go 
+
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+
 ## JavaScript 
 
+- [gotwarlost/istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use ca
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 - [miravideo/FFCreator](https://github.com/miravideo/FFCreator) - 一个基于node.js的高速短视频制作库  A fast short video processing library based on node.js
@@ -68,6 +74,7 @@
 
 ## TypeScript 
 
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [yujinpan/el-table-infinite-scroll](https://github.com/yujinpan/el-table-infinite-scroll) - Infinite scroll for el-table.
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
