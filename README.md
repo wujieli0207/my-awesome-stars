@@ -33,6 +33,7 @@
 
 ## JavaScript 
 
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [wl-ui/wl-mfe](https://github.com/wl-ui/wl-mfe) - 基于vue3+koa2+qiankun2的微前端后台管理系统项目实战
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
