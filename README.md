@@ -12,6 +12,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [Python](#python)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -86,8 +87,13 @@
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## Shell 
+
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+
 ## TypeScript 
 
+- [tengmaoqing/vite-plugin-qiankun](https://github.com/tengmaoqing/vite-plugin-qiankun) - 保留vite es特性，快速接入乾坤微前端子应用
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
