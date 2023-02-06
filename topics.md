@@ -142,7 +142,7 @@
 ## framework 
 
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
+- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework designed for modern web development.
 - [modern-js-dev/garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚
 
 ## frontend 
@@ -349,7 +349,7 @@
 
 - [brick-design/brick-design](https://github.com/brick-design/brick-design) - 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 - [tnfe/FEDiagram](https://github.com/tnfe/FEDiagram) - 图说前端&gt;&gt;收集各种前端技术图谱 🚕🚖🚗🚚🚛🚜
-- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
+- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework designed for modern web development.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -433,7 +433,7 @@
 
 ## webapp 
 
-- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
+- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework designed for modern web development.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## webpack 
