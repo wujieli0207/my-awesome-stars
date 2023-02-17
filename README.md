@@ -100,7 +100,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [tengmaoqing/vite-plugin-qiankun](https://github.com/tengmaoqing/vite-plugin-qiankun) - 保留vite es特性，快速接入乾坤微前端子应用
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ Explore high-performance tooling for Vue
+- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling base-on Volar.js
 - [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - A Progressive React Framework for modern web development.
 - [modern-js-dev/garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
