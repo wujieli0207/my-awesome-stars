@@ -14,6 +14,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [cli](#cli)
 - [cpp](#cpp)
 - [css](#css)
 - [data-science](#data-science)
@@ -41,6 +42,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [music](#music)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
 - [node](#node)
@@ -111,6 +113,10 @@
 ## chrome-extension 
 
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+
+## cli 
+
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个下载高品质音乐的命令行工具
 
 ## cpp 
 
@@ -262,6 +268,10 @@
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
+## music 
+
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个下载高品质音乐的命令行工具
+
 ## mysql 
 
 - [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🎉 Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js+mysql构建，提供基础的框架，快速搭建企业级中后台产品，响应式管理后台系统
@@ -279,6 +289,7 @@
 
 - [tnfe/FEDiagram](https://github.com/tnfe/FEDiagram) - 图说前端&gt;&gt;收集各种前端技术图谱 🚕🚖🚗🚚🚛🚜
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个下载高品质音乐的命令行工具
 
 ## open-source 
 
