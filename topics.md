@@ -64,6 +64,7 @@
 - [security](#security)
 - [spring-boot](#spring-boot)
 - [svelte](#svelte)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [visual-basic](#visual-basic)
 - [vue](#vue)
@@ -419,6 +420,10 @@
 ## svelte 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
+## twitter 
+
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 
 ## typescript 
 
