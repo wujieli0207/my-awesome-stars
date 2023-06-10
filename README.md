@@ -8,6 +8,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
@@ -31,6 +32,10 @@
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+
+## HTML 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## JavaScript 
 
