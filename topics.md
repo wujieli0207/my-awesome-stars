@@ -135,7 +135,7 @@
 
 ## cli 
 
-- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载高品质音乐的命令行工具
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载音乐的 Node.js 命令行工具
 
 ## cpp 
 
@@ -309,7 +309,7 @@
 ## music 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载高品质音乐的命令行工具
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载音乐的 Node.js 命令行工具
 
 ## mysql 
 
@@ -329,7 +329,7 @@
 
 - [tnfe/FEDiagram](https://github.com/tnfe/FEDiagram) - 图说前端&gt;&gt;收集各种前端技术图谱 🚕🚖🚗🚚🚛🚜
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
-- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载高品质音乐的命令行工具
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载音乐的 Node.js 命令行工具
 
 ## open-source 
 
