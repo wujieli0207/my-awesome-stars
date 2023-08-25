@@ -337,6 +337,7 @@
 
 ## others 
 
+- [GreatAuk/plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support Vite, Umijs and Webpack.
 - [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
 - [BixinTech/sona](https://github.com/BixinTech/sona) - Sona 平台是一个搭建语音房产品的全端解决方案，包含了房间管理、实时音视频、房间IM、长连接网关等能力。
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK
