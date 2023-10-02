@@ -11,6 +11,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [babel](#babel)
+- [backend](#backend)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -109,6 +110,10 @@
 ## babel 
 
 - [thx/gogocode](https://github.com/thx/gogocode) - GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.
+
+## backend 
+
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ## c 
 
