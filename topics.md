@@ -10,6 +10,7 @@
 - [angular](#angular)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
 - [babel](#babel)
 - [backend](#backend)
 - [c](#c)
@@ -106,6 +107,10 @@
 
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+
+## aws 
+
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ## babel 
 
@@ -343,6 +348,7 @@
 
 ## others 
 
+- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
 - [huangwei9527/quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
 - [GreatAuk/plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support Vite, Umijs and Webpack.
