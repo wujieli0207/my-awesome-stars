@@ -343,6 +343,7 @@
 
 ## nodejs 
 
+- [dragonman225/notablog](https://github.com/dragonman225/notablog) - Tell stories of your work with Notion
 - [tnfe/FEDiagram](https://github.com/tnfe/FEDiagram) - 图说前端&gt;&gt;收集各种前端技术图谱 🚕🚖🚗🚚🚛🚜
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 - [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载音乐的 Node.js 命令行工具
