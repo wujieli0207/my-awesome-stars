@@ -74,6 +74,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [spring-boot](#spring-boot)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [terminal](#terminal)
 - [twitter](#twitter)
@@ -507,6 +508,10 @@
 ## spring-boot 
 
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+
+## sqlite 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## svelte 
 
