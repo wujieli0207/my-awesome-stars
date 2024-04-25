@@ -335,6 +335,7 @@
 
 ## macos 
 
+- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
