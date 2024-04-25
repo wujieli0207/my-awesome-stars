@@ -15,6 +15,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -114,6 +115,10 @@
 ## Svelte 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+## Swift 
+
+- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS
 
 ## TypeScript 
 
