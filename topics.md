@@ -577,7 +577,7 @@
 - [tnfe/FEDiagram](https://github.com/tnfe/FEDiagram) - 图说前端&gt;&gt;收集各种前端技术图谱 🚕🚖🚗🚚🚛🚜
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [dai-siki/vue-image-crop-upload](https://github.com/dai-siki/vue-image-crop-upload) - A beautiful vue component for image cropping and uploading. （vue图片剪裁上传组件）
-- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表单/表格解决方案
+- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - Vxe table 表格组件
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the expo
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
