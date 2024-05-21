@@ -165,7 +165,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [vbenjs/vite-plugin-svg-icons](https://github.com/vbenjs/vite-plugin-svg-icons) - Vite Plugin for fast creating SVG sprites.
-- [surmon-china/veact-admin](https://github.com/surmon-china/veact-admin) - 🔏 Admin client for surmon.me blog powered by React & @veactjs
+- [surmon-china/surmon.admin](https://github.com/surmon-china/surmon.admin) - 🔏 Admin client for surmon.me blog, powered by React & @veactjs
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [vbenjs/vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - A plug-in that imports component library styles on demand.it is fast
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
