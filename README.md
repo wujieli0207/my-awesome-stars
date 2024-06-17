@@ -183,7 +183,7 @@
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the expo
 - [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🍁采用Vite4、Vue3、Pinia 、Naive UI 构建，构建企业npm依赖包中后台管理系统基础框架，做到框架(packages)和应用(app)分开，即可以减少项目之间的耦合，也能提升项目扩展性
 - [trouvaille2023/chrome-extension-vite](https://github.com/trouvaille2023/chrome-extension-vite) - 基于Vite+Vue3开发的一个浏览器插件
-- [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+- [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
