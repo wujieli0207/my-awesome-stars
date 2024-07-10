@@ -58,6 +58,7 @@
 - [mysql](#mysql)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
+- [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -196,6 +197,7 @@
 
 ## deep-learning 
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 
 ## design 
@@ -328,6 +330,7 @@
 
 ## llm 
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 
 ## low-code 
@@ -346,6 +349,7 @@
 
 ## machine-learning 
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## macos 
@@ -382,6 +386,10 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [HoPGoldy/cube-diary](https://github.com/HoPGoldy/cube-diary) - 一个简单扁平的桌面 / 移动端日记本。
 - [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
+
+## nlp 
+
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 ## node 
 
