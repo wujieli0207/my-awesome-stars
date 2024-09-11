@@ -424,7 +424,7 @@
 
 ## others 
 
-- [skywolfmo/bookmarksai](https://github.com/skywolfmo/bookmarksai) - Chrome Bookmarks on steroids
+- [mlnomadpy/bookmarksai](https://github.com/mlnomadpy/bookmarksai) - Chrome Bookmarks on steroids
 - [all-in-aigc/melodisco](https://github.com/all-in-aigc/melodisco) - AI Music Player
 - [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 本项目是一个基于vue、nuxt.js的网盘搜索项目，且持续开源和维护；目的实现人人都可以拥有自己的网盘搜索网站；建议自己部署，salute to all
 - [withastro/astro.build](https://github.com/withastro/astro.build) - 
