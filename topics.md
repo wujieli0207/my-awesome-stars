@@ -64,6 +64,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -421,6 +422,14 @@
 ## open-source 
 
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+## openai 
+
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## others 
 
