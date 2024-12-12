@@ -438,7 +438,6 @@
 - [KylinMountain/graphrag-server](https://github.com/KylinMountain/graphrag-server) - 添加🚀流式 Web 服务到 GraphRAG，兼容 OpenAI SDK，支持可访问的实体链接🔗，支持建议问题，兼容本地嵌入模型，修复诸多问题。Add streaming web server to GraphRAG, compatible with OpenAI SDK, support accessible entity link, support advice question, compa
 - [mlnomadpy/bookmarksai](https://github.com/mlnomadpy/bookmarksai) - Chrome Bookmarks on steroids
 - [all-in-aigc/melodisco](https://github.com/all-in-aigc/melodisco) - AI Music Player
-- [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 本项目乃是基于 Vue 与 Nuxt.js 技术打造的网盘搜索项目，持续开源并保持维护更新。其旨在让人人皆可拥有属于自己的网盘搜索网站。强烈建议自行部署，向所有参与者致敬！Salute to all!
 - [withastro/astro.build](https://github.com/withastro/astro.build) - 
 - [DennisThink/awesome_twitter_CN](https://github.com/DennisThink/awesome_twitter_CN) - 值得关注的中文twitter用户
 - [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
