@@ -142,6 +142,7 @@
 
 ## TypeScript 
 
+- [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [iAmCorey/coreychiu-portfolio-template](https://github.com/iAmCorey/coreychiu-portfolio-template) - portfolio template by corey chiu
 - [gyc-12/music-player-master](https://github.com/gyc-12/music-player-master) - 一个基于 React native 开发的音乐软件，欢迎star~
 - [hzeyuan/bookmarksAI](https://github.com/hzeyuan/bookmarksAI) - GPT  automatically organizes your browser bookmarks
