@@ -567,6 +567,7 @@
 
 ## rust 
 
+- [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## scikit-learn 
@@ -600,6 +601,7 @@
 
 ## tailwindcss 
 
+- [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## terminal 
