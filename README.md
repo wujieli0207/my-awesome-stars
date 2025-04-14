@@ -139,7 +139,7 @@
 
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [iAmCorey/coreychiu-portfolio-template](https://github.com/iAmCorey/coreychiu-portfolio-template) - portfolio template by corey chiu
-- [gyc-12/music-player-master](https://github.com/gyc-12/music-player-master) - 一个基于 React native 开发的音乐软件，欢迎star~
+- [gyc-12/Cymusic](https://github.com/gyc-12/Cymusic) - 一个基于 React native 开发的音乐软件，欢迎star~
 - [hzeyuan/bookmarksAI](https://github.com/hzeyuan/bookmarksAI) - GPT  automatically organizes your browser bookmarks
 - [all-in-aigc/melodisco](https://github.com/all-in-aigc/melodisco) - AI Music Player
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
