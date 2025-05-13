@@ -86,10 +86,12 @@
 - [spring-boot](#spring-boot)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [visual-basic](#visual-basic)
 - [vue](#vue)
@@ -480,7 +482,6 @@
 - [tengmaoqing/vite-plugin-qiankun](https://github.com/tengmaoqing/vite-plugin-qiankun) - 保留vite es特性，快速接入乾坤微前端子应用
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [aliaszz/awesome-lowcode-component](https://github.com/aliaszz/awesome-lowcode-component) - 精选低代码 (LowCode) 资源列表
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [tnfe/shida](https://github.com/tnfe/shida) - 《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或Maka 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。
 - [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
@@ -613,6 +614,10 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
+## tailwind 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
 ## tailwindcss 
 
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
@@ -640,6 +645,11 @@
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+
+## ui 
+
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 
 ## ui-design 
 
