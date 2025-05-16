@@ -141,6 +141,7 @@
 
 ## TypeScript 
 
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [iAmCorey/coreychiu-portfolio-template](https://github.com/iAmCorey/coreychiu-portfolio-template) - portfolio template by corey chiu
 - [gyc-12/Cymusic](https://github.com/gyc-12/Cymusic) - 一个基于 React native 开发的音乐软件，欢迎star~
