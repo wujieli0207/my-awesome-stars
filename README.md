@@ -142,6 +142,7 @@
 
 ## TypeScript 
 
+- [10play/10tap-editor](https://github.com/10play/10tap-editor) - React Native Rich Text Editor
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [iAmCorey/coreychiu-portfolio-template](https://github.com/iAmCorey/coreychiu-portfolio-template) - portfolio template by corey chiu
