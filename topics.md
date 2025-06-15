@@ -58,7 +58,6 @@
 - [markdown](#markdown)
 - [monitoring](#monitoring)
 - [music](#music)
-- [mysql](#mysql)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -407,10 +406,6 @@
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载音乐的 Node.js 命令行工具
-
-## mysql 
-
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## nestjs 
 
