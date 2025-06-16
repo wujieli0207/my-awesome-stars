@@ -69,6 +69,7 @@
 - [others](#others)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [productivity](#productivity)
 - [programming](#programming)
 - [python](#python)
 - [r](#r)
@@ -521,6 +522,11 @@
 ## powershell 
 
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
+
+## productivity 
+
+- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## programming 
 
