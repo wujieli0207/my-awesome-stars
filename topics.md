@@ -458,6 +458,7 @@
 
 ## others 
 
+- [yan5xu/scout](https://github.com/yan5xu/scout) - Scout 是一个基于 Roo Code VS Code 扩展 设计的实验性 Agent 实现。它专注于通过模拟人类行为进行精准的网络信息收集、研究与交互，旨在将 Roo Code 转变为一个强大的 Web 研究助手。
 - [10play/10tap-editor](https://github.com/10play/10tap-editor) - React Native Rich Text Editor
 - [iAmCorey/coreychiu-portfolio-template](https://github.com/iAmCorey/coreychiu-portfolio-template) - portfolio template by corey chiu
 - [gyc-12/Cymusic](https://github.com/gyc-12/Cymusic) - 一个基于 React native 开发的音乐软件，欢迎star~
