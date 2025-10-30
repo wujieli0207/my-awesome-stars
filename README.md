@@ -138,7 +138,7 @@
 
 ## Swift 
 
-- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS
+- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
 
 ## TypeScript 
 
