@@ -121,7 +121,7 @@
 
 ## Python 
 
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - 
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Deepagents is an agent harness built on langchain and langgraph. Deep agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to 
 - [KylinMountain/graphrag-server](https://github.com/KylinMountain/graphrag-server) - 添加🚀流式 Web 服务到 GraphRAG，兼容 OpenAI SDK，支持可访问的实体链接🔗，支持建议问题，兼容本地嵌入模型，修复诸多问题。Add streaming web server to GraphRAG, compatible with OpenAI SDK, support accessible entity link, support advice question, compa
 - [DennisThink/awesome_twitter_CN](https://github.com/DennisThink/awesome_twitter_CN) - 值得关注的中文twitter用户
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
