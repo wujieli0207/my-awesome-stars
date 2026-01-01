@@ -603,7 +603,7 @@
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-- [surmon-china/surmon.admin](https://github.com/surmon-china/surmon.admin) - 🔏 Admin client for surmon.me blog, powered by React & @veactjs
+- [surmon-china/surmon.me.admin](https://github.com/surmon-china/surmon.me.admin) - 🔏 Admin panel for surmon.me, built with React and @veactjs.
 
 ## reactjs 
 
