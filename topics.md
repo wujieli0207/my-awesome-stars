@@ -494,6 +494,7 @@
 
 ## others 
 
+- [DophinL/ruanyifeng-weekly-skill](https://github.com/DophinL/ruanyifeng-weekly-skill) - 智能检索阮一峰科技爱好者周刊中社区提交的数千个工具和资源 ❤️
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [yan5xu/scout](https://github.com/yan5xu/scout) - Scout 是一个基于 Roo Code VS Code 扩展 设计的实验性 Agent 实现。它专注于通过模拟人类行为进行精准的网络信息收集、研究与交互，旨在将 Roo Code 转变为一个强大的 Web 研究助手。
@@ -523,7 +524,7 @@
 - [FEMessage/el-data-table](https://github.com/FEMessage/el-data-table) - 🥘Base on element-ui, makes crud easily
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [iSparta/iSparta](https://github.com/iSparta/iSparta) - APNG、WebP converter
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [tengmaoqing/vite-plugin-qiankun](https://github.com/tengmaoqing/vite-plugin-qiankun) - 保留vite es特性，快速接入乾坤微前端子应用
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [aliaszz/awesome-lowcode-component](https://github.com/aliaszz/awesome-lowcode-component) - 精选低代码 (LowCode) 资源列表
